@@ -1,2 +1,11 @@
 sasasewew
+<<<<<<< HEAD
+<<<<<<< HEAD
 sadad
+=======
+dev1
+>>>>>>> 6b0e506... [SLI-141] dev-commit - 1
+=======
+dev1
+dev2
+>>>>>>> d2b638e... [SLI-141] dev-commit - 2
